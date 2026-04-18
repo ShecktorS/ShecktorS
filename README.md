@@ -35,30 +35,4 @@
 
 <p align="left">In this period I am dedicating a lot of time to my professional development as a web developer. I have just completed an important intensive course that provided me with the basics of HTML, CSS and JavaScript, as well as teaching me how to use tools like Git and Visual Studio Code. Now I am deepening my studies on two frameworks that are very much in demand in the job market: Bootstrap and Angular. My goal is to become a competent and updated web developer, able to create innovative and quality projects.</p>
 
-###
-
-<h2 align="left">How to reach me 📬</h2>
-
-###
-
-<p align="left">If you want to know more about me or my work, you can contact me via email or follow me on my social media:</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ettore-sanfilippo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/shecktors" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
-  </a>
-  <a href="ettoresanfilippo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Ettore_CtrlC_CtrlV" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
 
